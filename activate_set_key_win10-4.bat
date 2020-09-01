@@ -1,0 +1,6 @@
+slmgr.vbs /ipk B2JMW-ND22G-MYTH2-RPXFD-BHCF2
+TIMEOUT /T 3
+slmgr.vbs -ato
+TIMEOUT /T 3
+echo DONE.
+PAUSE
